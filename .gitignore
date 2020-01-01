@@ -1,0 +1,7 @@
+*.pyc
+*.pt
+*.pth
+*.db
+output/*
+*static/processed/*
+cython/*
